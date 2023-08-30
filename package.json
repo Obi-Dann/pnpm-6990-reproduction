@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"import-jsx": "5.0.0"
+	},
+	"peerDependencies": {
+		"@babel/core": "*"
+	},
+	"pnpm": {
+	  "overrides": {
+		"@babel/core": "7.22.5"
+	  }
+	}
+}
